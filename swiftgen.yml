@@ -1,0 +1,20 @@
+input_dir: StreamingApp/
+output_dir: StreamingApp/Resources/Generated
+
+strings:
+  inputs: Resources/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Strings.swift
+xcassets:
+  inputs:
+    - Resources/Images.xcassets
+    - Resources/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: Assets.swift
+fonts:
+  inputs: Resources/Fonts
+  outputs:
+    templateName: swift5
+    output: Fonts.swift

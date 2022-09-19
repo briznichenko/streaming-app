@@ -1,0 +1,69 @@
+/* 
+  Strings.strings
+  StreamingApp
+
+  Created by Andriy Briznichenko on 7/1/22.
+  
+*/
+
+"LandingTitleText" = "StreamingApp";
+"LandingTitleLabelText" = "E-commerce reimagined.";
+"LandingSubtitleText" = "Build your community, supercharge your sales, and engagement with livestream shopping.";
+"LandingSignInButtonText" = "Sign In";
+"LandingScanButtonText" = "ScanQR";
+
+"SignInText" = "Sign In";
+"EmailPlaceholder" = "Email";
+"PasswordPlaceholder" = "Password";
+"SignUpText" = "Don’t have an account? Signup Here";
+"SignUpTextBold" = "Signup Here";
+"LegalText" = "By signing in you agree to our Terms Of Service and Privacy Policy.";
+"LegalTextTerms" = "Terms Of Service";
+"LegalTextPrivacy" = "Privacy Policy";
+
+"QrLabelText" = "Event QR Scan";
+"QrPromptText" = "Scan your event QR code to get started with the livestream.";
+
+"PermissionsLabelText" = "We need a few things before going Streaming.";
+"CameraLabelText" = "Camera";
+"CameraSubtitleLabelText" = "To broadcast your video to your viewers.";
+
+"MicrophoneLabelText" = "Microphone";
+"MicrophoneSubtitleLabelText" = "For you to engage with your viewers with audio.";
+"ContinueButtonTitle" = "Continue";
+
+"EventsButtonTitle" = "Events";
+
+"EndStreamTitleText" = "End the stream?";
+"EndStreamSubtitleText" = "Are you sure you want to end the live?";
+"EndStreamText" = "End Now";
+"EndStreamCancelText" = "I’m Not Done";
+
+"EventsTitleText" = "Events";
+"EventsPlaceholderText" = "Access your dashboard to schedule some campaigns…";
+"EventsBottomButtonText" = "Start Event";
+
+"ProductsTitleText" = "Highlight Product";
+"ProductsSubtitleText" = "Tap a product you want to showcase.";
+"ProductsBottomButtonText" = "Highlight Product";
+"ProductsBottomButtonTextSelected" = "Don’t highlight product";
+
+// Error messages:
+
+"ErrorTitle" = "Error";
+"ErrorEmailEmpty" = "Email field is empty";
+"ErrorPasswordEmpty" = "Password field is empty";
+"ErrorEmailInvalid" = "Input email is in wrong format";
+"ErrorPasswordInvalid" = "Input password is invalid";
+
+// Alerts:
+
+"alert.microphone.title" = "Please Allow \"%@\" to Access the Microphone";
+"alert.camera.title" = "Please Allow \"%@\" to Access the Camera";
+"alert.notNow" = "Not Now";
+"alert.settings" = "Settings";
+
+// Info
+
+"InfoPlist.NSMicrophoneUsageDescription" = "For you to engage with your viewers with audio.";
+"InfoPlist.NSCameraUsageDescription" = "To broadcast your video to your viewers.";
